@@ -2,7 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `access the website at`
 
-https://sadiqsalam.github.io/react-app
+https://sadiqsalam.github.io/react-app 
+
+And go to the sidebar and select Home
 
 ## Available Scripts
 
